@@ -15,3 +15,9 @@ Cargo.lock
 
 # Halo2 artifacts
 params/
+
+configs/
+
+*.pk
+*.snark
+*.vk
